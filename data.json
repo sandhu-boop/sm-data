@@ -1,0 +1,34 @@
+{
+    "spotify": {
+      "monthlyListeners": 285000,
+      "topTracks": [
+        {
+          "title": "Namastute",
+          "streams": 3200000
+        },
+        {
+          "title": "101",
+          "streams": 2800000
+        },
+        {
+          "title": "Kranti",
+          "streams": 2500000
+        }
+      ]
+    },
+    "youtube": {
+      "subscribers": 420000,
+      "totalViews": 38000000
+    },
+    "discography": {
+      "albums": 2,
+      "eps": 3,
+      "singles": 12
+    },
+    "performances": {
+      "liveShows": 85,
+      "festivals": 18,
+      "internationalTours": 2
+    }
+  }
+  
